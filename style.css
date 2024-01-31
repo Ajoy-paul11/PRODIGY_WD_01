@@ -135,13 +135,15 @@ header {
   border: 3px solid whitesmoke;
   padding: 22px 38px;
   border-radius: 20px;
+  color: #ddd;
 }
 
 #hero-section {
   text-align: center;
   padding: 12px 8px;
   font-size: x-large;
-  text-shadow: 3px 4px lightgrey;
+  color: #fefefe;
+  text-shadow: 3px 4px #333;
 }
 
 /* CSS styles for the footer */
@@ -150,10 +152,14 @@ footer {
   background-color: #333;
   color: #fff;
   text-align: center;
-  position: fixed;
-  bottom: 0;
+  /* bottom: 0; */
   width: 100%;
-  left: 0;
+  /* left: 0; */
+  padding: 12px;
+}
+
+footer :first-child {
+  padding: 12px;
 }
 
 footer a {
