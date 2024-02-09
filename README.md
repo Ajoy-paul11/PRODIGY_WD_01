@@ -1,6 +1,11 @@
-# This project is about creating responsive Navbar
+# This is a Responsive Navbar project
 
-<br/>
-<h3> HTML, CSS and JavaScript is used to create the Project </h3>
-<br/>
-<p> An interactive navigation menu that changes color when scrolled and when hovering over a menu item changes color of menu item. The navigation menu should have a fixed position and be visible on all pages.</p>
+---
+
+## HTML, CSS and JavaScript is used to create the Project
+
+---
+
+### Project Description:
+
+The navbar has been designed with responsiveness in mind. It will adjust its layout according to the screen size of the device it's being viewed on and also changes color when scrolled, and when hovering over a menu item changes color of menu item.
