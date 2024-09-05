@@ -1,8 +1,25 @@
-# This is a Responsive Navbar project
+# A Responsive Navbar project
 
 ---
 
-## HTML, CSS and JavaScript is used to create the Project
+## Technologies Used
+
+- **HTML**: It is used to structure the site.
+- **CSS**: It is used to style and color the site.
+- **JavaScript**: It adds functionality to the site.
+---
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Ajoy-paul11/PRODIGY_WD_01.git
+   ```
+2. Navigate to the project
+    ```sh
+    cd PRODIGY_WD_01
+    ```
+3. Run the development site in the browser
 
 ---
 
